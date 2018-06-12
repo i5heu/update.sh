@@ -1,2 +1,2 @@
-sudo apt-get -y update && sudo apt-get -y upgrade && sudo apt-get -y dist-upgrade
-
+sudo snap refresh  && sudo apt -y update && sudo apt -y upgrade && sudo apt -y dist-upgrade
+#this script is not non-console rdy
